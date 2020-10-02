@@ -1,11 +1,11 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Bienvenidos a mi pagina web personal.
+    text: Un gusto tenerte aqui.
+    button: Dime más
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
-    title: "Services"
+    title: "Servicios"
     text: "Lorem ipsum"
     section: services
     list:
@@ -80,12 +80,12 @@ clients:
         logo: assets/img/clients/creative-market.jpg
     
 team:
-    title: "OUR AMAZING TEAM"
+    title: "Nuestro maravilloso equipo"
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
+      - name: "David Guber"
         role: "Lead Designer"
         image: assets/img/team/1.jpg
         social:
@@ -95,7 +95,7 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
+      - name: "Lorenzo Capiglioni"
         role: "Lead Marketer"
         image: assets/img/team/2.jpg
         social:
@@ -105,7 +105,7 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
+      - name: "Fabian Tommasini"
         role: "Lead Developer"
         image: assets/img/team/3.jpg
         social:
@@ -117,8 +117,8 @@ team:
             icon: fab fa-linkedin-in
           
 contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Contactanos"
+    text: "Llamanos al 549351111111"
     section: contact
     
 footer:
