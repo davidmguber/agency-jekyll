@@ -1,5 +1,5 @@
 header:
-    title: Bienvenidos a mi pagina web personal.
+    title: Bienvenidos a la web del CINTRA.
     text: Un gusto tenerte aqui.
     button: Dime más
     buttonlink: "#services" # "#{section}" or "URL/page link"
@@ -85,7 +85,7 @@ team:
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "David Guber"
+      - name: "Fabian Tommasini"
         role: "Lead Designer"
         image: assets/img/team/1.jpg
         social:
@@ -95,7 +95,7 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Lorenzo Capiglioni"
+      - name: "R. Martin Guido"
         role: "Lead Marketer"
         image: assets/img/team/2.jpg
         social:
@@ -105,7 +105,7 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Fabian Tommasini"
+      - name: "Fermin Scaliti"
         role: "Lead Developer"
         image: assets/img/team/3.jpg
         social:
